@@ -1,4 +1,4 @@
-This report presents the progress of ongoing research focused on the 
+This repo presents the progress of ongoing research focused on the 
 application of reinforcement learning algorithms for motion planning on
 hexapod and quadruped robots. The primary objective is to develop
 effective locomotion strategies by integrating reinforcement learning
