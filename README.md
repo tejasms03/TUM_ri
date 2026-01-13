@@ -11,7 +11,8 @@ design and manufacture of a custom quadruped robot. With the quadruped
 model now completed, future work will involve implementing a similar
 reinforcement learning approach to enable the newly created robot to
 achieve stable and adaptive locomotion.
-The expected outcomes of this project include a fully functional quadruped
+The expected outcomes of this project include a fully functional quadruped and hexapod
 robot capable of dynamic movement, validated through both simulation
 and real-world testing, and insights into the adaptability of reinforcement
 learning algorithms across different robotic platforms.
+*note: this repo does not contain the final code as that belongs to the professors at TUM and isn't open source* 
