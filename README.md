@@ -15,4 +15,5 @@ The expected outcomes of this project include a fully functional quadruped and h
 robot capable of dynamic movement, validated through both simulation
 and real-world testing, and insights into the adaptability of reinforcement
 learning algorithms across different robotic platforms.
+
 *note: this repo does not contain the final code as that belongs to the professors at TUM and isn't open source* 
