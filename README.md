@@ -16,4 +16,4 @@ robot capable of dynamic movement, validated through both simulation
 and real-world testing, and insights into the adaptability of reinforcement
 learning algorithms across different robotic platforms.
 
-*note: this repo does not contain the final code as that belongs to the professors at TUM and isn't open source* 
+*note: the main code is within the file gym_hexapod_zoo* 
